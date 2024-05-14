@@ -3,7 +3,6 @@ int Photo = A0;
 void setup()
 {
   pinMode(Photo, INPUT);
-  pinMode(13, OUTPUT);
   Serial.begin(9600);
 }
 
