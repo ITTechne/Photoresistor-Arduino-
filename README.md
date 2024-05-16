@@ -4,4 +4,4 @@ For additional steps and info visit my blog.
 
 Blog - https://ittechnes.blogspot.com/
 
-Photoresistor post - 
+Photoresistor post - https://ittechnes.blogspot.com/2024/05/photoresistor-with-arduino.html
